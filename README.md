@@ -1,0 +1,2 @@
+# comandos
+git no se
